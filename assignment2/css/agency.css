@@ -443,7 +443,7 @@ footer span.copyright {
   text-transform: none;
 }
 ul.social-buttons {
-  margin-bottom: 0;
+  margin: 0 auto;
 }
 ul.social-buttons li a {
   display: block;
